@@ -1,0 +1,15 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+#title {
+    font-weight: 600;
+}
+
+#home {
+    background: linear-gradient(180deg, rgb(79, 161, 46)  14%, rgb(238, 235, 34) 100%);
+}
+
+.footer {
+    background: rgb(48, 48, 48) 100%;
+}
