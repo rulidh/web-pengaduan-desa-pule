@@ -13,3 +13,17 @@ body {
 .footer {
     background: rgb(48, 48, 48) 100%;
 }
+
+@media screen and (max-width: 600px) and (max-height: 900px) {
+    img {
+        display: none;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    iframe {
+        width: 300px;
+    }
+}
