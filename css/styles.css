@@ -7,7 +7,11 @@ body {
 }
 
 #home {
-    background: linear-gradient(180deg, rgb(79, 161, 46)  14%, rgb(238, 235, 34) 100%);
+    background: linear-gradient(180deg, #ffc107  14%, #ffffff 100%);
+}
+
+#link-desa:hover {
+    color: black;
 }
 
 .footer {
